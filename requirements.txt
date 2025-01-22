@@ -1,8 +1,9 @@
-fastapi
-uvicorn
+fastapi==0.95.2
 langchain
-openai
-pymysql
-sqlalchemy
-langchain_community
 langchain_openai
+langchain_community
+langgraph
+sqlalchemy==1.4.47
+pydantic==1.10.7
+openai
+pymysql==1.0.3
